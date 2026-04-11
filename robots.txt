@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /cdn-cgi/
+
+Sitemap: https://www.lunerasmart.com/sitemap.xml
+
+# Lunera Smart Technologies
+# Smart Home & Business Automation
+# Hamilton, Burlington, Oakville & the GTA
