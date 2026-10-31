@@ -3,8 +3,8 @@
  "short_name": "Lunera",
  "start_url": "/",
  "display": "browser",
- "background_color": "#F4F2EF",
- "theme_color": "#F4F2EF",
+ "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF",
  "icons": [
   {
    "src": "/assets/icon-192.png",
