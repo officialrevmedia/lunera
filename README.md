@@ -1,6 +1,6 @@
 # lunerasmart.com
 
-Coming-soon site for Lunera Smart Technologies, hosted on GitHub Pages. Launch date: December 1, 2026.
+Coming-soon site for Lunera Smart Technologies, hosted on GitHub Pages. Launch date: January 1, 2027.
 
 ## Files
 - `index.html` home page: animated dot hero, scroll sections, countdown, contact form
